@@ -1,3 +1,4 @@
+import React from 'react';
 import closeButton from '../images/white-cross-close-button.png';
 
 function PopupWithForm(props) {

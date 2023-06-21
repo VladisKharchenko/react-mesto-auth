@@ -36,3 +36,5 @@ export const popupInputName = document.querySelector('.popup__input_type_name');
 export const popupInputAbout = document.querySelector('.popup__input_type_about-yourself');
 export const profileName = document.querySelector('.profile__name');
 export const profileAbout = document.querySelector('.profile__about-yourself');
+
+export const BASE_URL = 'https://auth.nomoreparties.co';
